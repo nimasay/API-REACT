@@ -65,7 +65,7 @@ class Login extends React.Component {
                         </Form.Group>
                     </Card.Text>
                     <Button variant="primary" class="btn btn-secondary float-left" type="submit">Submit</Button>
-                    <Button variant="warning" class="btn btn-warning float-right" type="button" href="/register">Register</Button>
+                    <Button variant="info" class="btn btn-warning float-right" type="button" href="/register">Register</Button>
                          
                     </Form>
                 </Card.Body>
